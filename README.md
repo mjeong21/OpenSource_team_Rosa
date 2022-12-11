@@ -1,6 +1,6 @@
 # Vehicle Detection of Specific Color with Haar Cascades
 
-It does not simply recognize the vehicle but recognizes and shows the vehicle of a specific color.
+### It does not simply recognize the vehicle but recognizes and shows the vehicle of a specific color.
 
 The reason why we made this program:
 When watching the movie, there is a scene where the suspect flees in a car.
