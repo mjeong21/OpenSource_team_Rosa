@@ -13,11 +13,11 @@ Of course, the program we made is being used in a more advanced form, still, it 
 1. python (3.7.4)
 2. numpy (1.21.6)
 3. opencv (4.6.0)
-
+4. cars.xml
 
 ### File
 python rosa.py
 
 
 ### Result and Limitation
-...
+
